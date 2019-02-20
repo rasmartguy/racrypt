@@ -1,0 +1,18 @@
+.idea/
+__pycache__/
+venv/
+dist/
+build/
+#test_keys
+keys/
+# Compiled python modules.
+*.pyc
+
+# Setuptools distribution folder.
+/dist/
+
+# Python egg metadata, regenerated from source files by setuptools.
+/*.egg-info
+
+racrypt/
+keys1/
